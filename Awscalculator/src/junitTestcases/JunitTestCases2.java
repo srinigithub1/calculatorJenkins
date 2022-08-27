@@ -33,7 +33,7 @@ public class JunitTestCases2 {
 		@Test
 		public void testAdditon() {
 					
-			Assert.assertEquals("Checking Addiotn funcaitonality", 18, objcalculator.addition(12, 6));
+			Assert.assertEquals("Checking Addiotn funcaitonality", 17, objcalculator.addition(12, 6));
 		}
 	
 		@Test
